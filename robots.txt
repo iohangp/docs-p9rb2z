@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-w08tjb.indocuan-pro.cfd/sitemap.xml
